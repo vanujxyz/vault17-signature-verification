@@ -51,7 +51,6 @@ pip install -r requirements.txt
 
 <h2>📊 Model Performance</h2>
 <p>The classifier achieved <strong>100% accuracy</strong> on the test set.</p>
-<img src="confusion_matrix.png" alt="Confusion Matrix" width="500">
 
 <h2>📜 Results</h2>
 <p>Model Performance:</p>
