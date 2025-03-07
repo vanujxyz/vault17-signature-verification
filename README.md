@@ -60,18 +60,6 @@ pip install -r requirements.txt
     <li><strong>Recall:</strong> 1.00</li>
 </ul>
 
-<h2>📝 Future Improvements</h2>
-<ul>
-    <li>Test the model against unseen real-world signature samples.</li>
-    <li>Implement adversarial training to improve robustness.</li>
-    <li>Apply Neural Style Transfer (NST) for advanced forgery detection.</li>
-</ul>
-
-<h2>📌 License</h2>
-<p>This project is licensed under the <strong>MIT License</strong>.</p>
-
-<h2>📞 Contact</h2>
-<p>For inquiries or contributions, feel free to reach out via GitHub.</p>
 
 </body>
 </html>
